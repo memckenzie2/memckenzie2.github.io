@@ -1,3 +1,6 @@
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: M. McKenzie Professional
+description: This is the professional profile of M. McKenzie highlighting current and past projects. 
