@@ -1,1 +1,1 @@
-This is the professional page form M. McKenzie. 
+This is the professional page for M. McKenzie. 
